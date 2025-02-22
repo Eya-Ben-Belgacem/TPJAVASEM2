@@ -33,6 +33,12 @@
 			<path>src\app1.java</path>
 			<source>true</source>
 			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\app2\src\app2.java</path>
+			<source>true</source>
+			<index>1</index>
 			<active>true</active>
 		</docitem>
 	</open_files>
@@ -42,6 +48,13 @@
 			<symbols>
 				<symbol>Clavier</symbol>
 				<symbol>app1</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>..\app2\src\app2.java.sdk</path>
+			<symbols>
+				<symbol>Clavier</symbol>
+				<symbol>app2</symbol>
 			</symbols>
 		</symboltable>
 	</symboltables>

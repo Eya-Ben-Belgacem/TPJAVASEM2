@@ -21,7 +21,6 @@ public static void main(String[] args) {
             	   System.out.print("Remplir M1[" + i + "," + j + "]: ");
                 M1[i][j] = Clavier.lireInt();	
             	}while( M1[i][j]%2!=0);
-               
                 
             }
         }

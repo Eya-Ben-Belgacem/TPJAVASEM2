@@ -2,21 +2,18 @@
 
 <workspace>
 	<settings>
-		<label>app1</label>
-		<id>35</id>
+		<label>app2</label>
+		<id>0</id>
 		<version>0</version>
 	</settings>
 	<users>
 		<user>
-			<path>app1.jcu</path>
+			<path>app2.jcu</path>
 		</user>
 	</users>
 	<projects>
 		<project>
-			<path>app1.jcp</path>
-		</project>
-		<project>
-			<path>..\app2\app2.jcp</path>
+			<path>app2.jcp</path>
 		</project>
 	</projects>
 </workspace>
