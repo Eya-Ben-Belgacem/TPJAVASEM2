@@ -16,4 +16,27 @@
 			</folderitem>
 		</project>
 	</projects>
+	<open_files>
+		<docitem>
+			<path>src\app2.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>src\Clavier.java.sdk</path>
+			<symbols>
+				<symbol>Clavier</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>src\app2.java.sdk</path>
+			<symbols>
+				<symbol>Clavier</symbol>
+				<symbol>app2</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
 </workspace_user>
