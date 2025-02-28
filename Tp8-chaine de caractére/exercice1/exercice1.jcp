@@ -2,7 +2,7 @@
 
 <project>
 	<settings>
-		<label>app3</label>
+		<label>exercice1</label>
 		<root_path>\</root_path>
 		<output_path>classes\</output_path>
 		<source_path>src\</source_path>
@@ -19,7 +19,7 @@
 			<applet_ref/>
 			<debugger_ref/>
 			<param/>
-			<run>app3</run>
+			<run>exercice1</run>
 			<verify>true</verify>
 		</runtime>
 	</runtimes>
@@ -30,11 +30,7 @@
 				<path>src</path>
 			</folderitem>
 			<fileitem>
-				<path>src\app3.java</path>
-				<folder>src</folder>
-			</fileitem>
-			<fileitem>
-				<path>src\Clavier.java</path>
+				<path>src\exercice1.java</path>
 				<folder>src</folder>
 			</fileitem>
 		</include>
