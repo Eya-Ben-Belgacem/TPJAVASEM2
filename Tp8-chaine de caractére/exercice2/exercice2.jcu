@@ -2,11 +2,11 @@
 
 <workspace_user>
 	<active_project>
-		<label>exemple1</label>
+		<label>exercice2</label>
 	</active_project>
 	<projects>
 		<project>
-			<label>exemple1</label>
+			<label>exercice2</label>
 			<showfiles>false</showfiles>
 			<folderitem>
 				<path>classes</path>
@@ -16,11 +16,19 @@
 			</folderitem>
 		</project>
 	</projects>
+	<open_files>
+		<docitem>
+			<path>src\exercice2.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
 	<symboltables>
 		<symboltable>
-			<path>src\exemple1.java.sdk</path>
+			<path>src\exercice2.java.sdk</path>
 			<symbols>
-				<symbol>exemple1</symbol>
+				<symbol>RechRep</symbol>
 			</symbols>
 		</symboltable>
 	</symboltables>

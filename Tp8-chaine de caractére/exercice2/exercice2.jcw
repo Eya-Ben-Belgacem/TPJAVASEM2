@@ -2,18 +2,18 @@
 
 <workspace>
 	<settings>
-		<label>exemple1</label>
+		<label>exercice2</label>
 		<id>3</id>
 		<version>0</version>
 	</settings>
 	<users>
 		<user>
-			<path>exemple1.jcu</path>
+			<path>exercice2.jcu</path>
 		</user>
 	</users>
 	<projects>
 		<project>
-			<path>exemple1.jcp</path>
+			<path>exercice2.jcp</path>
 		</project>
 	</projects>
 </workspace>
