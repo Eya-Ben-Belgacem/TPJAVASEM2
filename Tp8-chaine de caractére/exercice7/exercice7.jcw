@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>exercice7</label>
+		<id>56</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>exercice7.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>exercice7.jcp</path>
+		</project>
+	</projects>
+</workspace>
