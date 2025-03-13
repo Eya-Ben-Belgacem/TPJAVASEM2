@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>exemple1</label>
+		<id>47</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>exemple1.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>exemple1.jcp</path>
+		</project>
+		<project>
+			<path>..\exemple2\exemple2.jcp</path>
+		</project>
+		<project>
+			<path>..\exemple3\exemple3.jcp</path>
+		</project>
+		<project>
+			<path>..\..\Tp11_les méthodes\exercice1\exercice1.jcp</path>
+		</project>
+	</projects>
+</workspace>

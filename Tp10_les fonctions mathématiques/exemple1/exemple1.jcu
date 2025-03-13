@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>exercice1</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>exemple1</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+		<project>
+			<label>exemple2</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>..\exemple2\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\exemple2\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+		<project>
+			<label>exemple3</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>..\exemple3\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\exemple3\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+		<project>
+			<label>exercice1</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>..\..\Tp11_les méthodes\exercice1\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\..\Tp11_les méthodes\exercice1\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+	</projects>
+	<symboltables>
+		<symboltable>
+			<path>..\..\Tp9-string-Buffer\exercice1\src\exercice1.java.sdk</path>
+			<symbols/>
+		</symboltable>
+		<symboltable>
+			<path>..\exemple2\src\exemple2.java.sdk</path>
+			<symbols>
+				<symbol>exemple2</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>..\exemple3\src\exemple3.java.sdk</path>
+			<symbols>
+				<symbol>exemple3</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>..\..\Tp11_les méthodes\exercice1\src\exercice1.java.sdk</path>
+			<symbols>
+				<symbol>exercice1</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>src\exemple1.java.sdk</path>
+			<symbols>
+				<symbol>exemple1</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>
