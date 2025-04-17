@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>CalculatriceSimple</label>
+		<id>44</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>CalculatriceSimple.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>CalculatriceSimple.jcp</path>
+		</project>
+		<project>
+			<path>..\exercice3\exercice3.jcp</path>
+		</project>
+	</projects>
+</workspace>
