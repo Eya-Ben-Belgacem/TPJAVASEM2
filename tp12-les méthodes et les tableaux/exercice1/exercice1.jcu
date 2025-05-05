@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>exercice1</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>exercice1</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\exercice1.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>src\methode1.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>src\methode1.java.sdk</path>
+			<symbols>
+				<symbol>methode1</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>src\exercice1.java.sdk</path>
+			<symbols>
+				<symbol>exercice1</symbol>
+				<symbol>methode1</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>
