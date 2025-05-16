@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ex1</label>
+		<id>6</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>ex1.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ex1.jcp</path>
+		</project>
+	</projects>
+</workspace>

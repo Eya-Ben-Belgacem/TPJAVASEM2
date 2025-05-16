@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>app6</label>
+		<id>6</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>app6.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>app6.jcp</path>
+		</project>
+	</projects>
+</workspace>

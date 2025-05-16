@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>app4</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>app3</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+		<project>
+			<label>app4</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>..\app4\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\app4\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+	</projects>
+	<symboltables>
+		<symboltable>
+			<path>src\app3.java.sdk</path>
+			<symbols>
+				<symbol>app3</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>..\app4\src\app4.java.sdk</path>
+			<symbols>
+				<symbol>app4</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>

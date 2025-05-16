@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>app6</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>app6</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\app6.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>..\app5\src\app5.java.sdk</path>
+			<symbols/>
+		</symboltable>
+		<symboltable>
+			<path>src\app6.java.sdk</path>
+			<symbols>
+				<symbol>app6</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>
